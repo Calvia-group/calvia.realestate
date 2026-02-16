@@ -1,2 +1,2 @@
 # calvia.realestate
-Lead gen page conversion optimised incl. SEO Blog
+Conversion optimised lead gen page incl. Blog
